@@ -31,14 +31,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: >-
-        /images/DALL·E 2025-01-28 21.35.15 - A modern and minimalistic logo for
-        an app named 'Cuddly' designed to promote cozy, platonic interactions.
-        The logo features a soft, warm color palette.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is NOT A DRILL!
       color: text-primary
