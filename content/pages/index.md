@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Cosy vibes
+      text: Kick away the cold vibes
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
