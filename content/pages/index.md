@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     badge:
-      label: This is NOT A DRILL!
+      label: WE PRESENT CUDDLY!
       color: text-primary
       type: Badge
     elementId: ''
