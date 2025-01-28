@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/DALL·E 2025-01-28 21.35.15 - A modern and minimalistic logo for an app named 'Cuddly' designed to promote cozy, platonic interactions. The logo features a soft, warm color palette.webp",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
