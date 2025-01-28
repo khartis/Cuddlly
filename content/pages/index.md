@@ -48,7 +48,10 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        /images/DALL·E 2025-01-28 21.35.15 - A modern and minimalistic logo for
+        an app named 'Cuddly' designed to promote cozy, platonic interactions.
+        The logo features a soft, warm color palette (1).webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
